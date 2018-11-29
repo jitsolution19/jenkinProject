@@ -9,4 +9,10 @@ public class AddedNewClass {
 	{
 		System.out.println("Hello Jenkins Setup");
 	}
+	
+	@Test()
+	public void temp1()
+	{
+		System.out.println("Hello Jenkins Setup webhook");
+	}
 }
