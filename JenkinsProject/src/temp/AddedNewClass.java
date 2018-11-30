@@ -20,6 +20,6 @@ public class AddedNewClass {
 	public void temp2()
 	{
 		System.out.println("Hello Jenkins Setup webhook");
-		Threa
+
 	}
 }
